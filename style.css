@@ -29,6 +29,7 @@ body {
   min-width: 300px;
   font-size: 30px;
   background: #edc8b8;
+  border: 2px solid #edc8b8;
   border-radius: 3px;
 }
 
