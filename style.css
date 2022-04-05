@@ -20,7 +20,7 @@ body {
 .buttons {
   display: block;
   text-align: center;
-  min-width: 300px;
+  width: 300px;
   font-size: 30px;
   background: #edc8b8;
   border: 2px solid #edc8b8;
