@@ -1,16 +1,18 @@
 body {
-  background-color: #fed;
+  background-color: #f0dcd3;
   font-family: 'Averia Sans Libre';
 }
 
 .topnav {
-  background-color: # ;
+  background-color: #edc8b8 ;
   text-align: right;
-  text-color: # ;
+  text-color: #fff7f3 ;
 }
 
 .image {
   align: center;
+  width: ;
+  height: ;
 }
 
 .heading {
@@ -21,15 +23,13 @@ body {
 
 .buttons {
   display: inline-block;
-  float: center;
   text-align: center;
   padding: 10px;
   font-size: 30px;
-  background: transparent;
-  border: 2px solid #ccc;
+  background: #edc8b8;
   border-radius: 3px;
 }
 
 .buttons:hover {
-  border: 2px solid #777;
+  background-color: #f1dbd1 ;
 }
