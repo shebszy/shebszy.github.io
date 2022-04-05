@@ -9,7 +9,8 @@
 }
 
 .buttons {
-  margin: 20px;
+  display: inline;
+  margin: 10px;
   font-size: 30px;
   background: transparent;
   border: 2px solid #ccc;
