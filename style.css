@@ -1,5 +1,5 @@
-.body {
-  background-colour: antique-white;
+body {
+  background-colour: #f0dcd3;
   font-family: serif;
 }
 
@@ -9,7 +9,9 @@
 }
 
 .buttons {
-  display: inline;
+  display: inline-block;
+  align: center;
+  padding: 10px;
   margin: 10px;
   font-size: 30px;
   background: transparent;
