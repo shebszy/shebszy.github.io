@@ -1,6 +1,8 @@
 body {
   background-color: #f0dcd3;
   font-family: 'Averia Sans Libre';
+  padding: 0px;
+  margin: 0px;
 }
 
 .topnav {
