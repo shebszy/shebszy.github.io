@@ -11,9 +11,8 @@ body {
 
 .buttons {
   display: inline-block;
-  align: center;
+  text-align: center;
   padding: 10px;
-  margin: 10px;
   font-size: 30px;
   background: transparent;
   border: 2px solid #ccc;
