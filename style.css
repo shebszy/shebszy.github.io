@@ -1,16 +1,16 @@
 .body {
-  background-colour: #f0dcd3;
+  background-colour: rgb(240,220,211);
   font-family: serif;
-  margin:-;
 }
 
 .heading {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
-  padding: 40px;
 }
 
 .buttons {
+  font-size: 20px;
   background: transparent;
-  
-  
+  border: 2px solid;
+  border-radius: 5px;
+}
