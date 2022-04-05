@@ -9,8 +9,13 @@
 }
 
 .buttons {
+  margin: 20px;
   font-size: 30px;
   background: transparent;
-  border: 2px solid;
-  border-radius: 5px;
+  border: 2px solid #ccc;
+  border-radius: 3px;
+}
+
+.buttons:hover {
+  border: 2px solid #777;
 }
