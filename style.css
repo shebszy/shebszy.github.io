@@ -1,6 +1,12 @@
 body {
-  background-colour: #fed;
+  background-color: #fed;
   font-family: 'Averia Sans Libre';
+}
+
+.topnav {
+  background-color: # ;
+  text-align: right;
+  text-color: # ;
 }
 
 .heading {
