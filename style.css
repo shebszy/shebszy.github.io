@@ -31,5 +31,6 @@ body {
 }
 
 .buttons:hover {
-  background-color: #f1dbd1 ;
+  background-color: #f1dbd1;
+  border: 2px solid #edc8b8;
 }
