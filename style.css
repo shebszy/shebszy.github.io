@@ -9,6 +9,10 @@ body {
   text-color: # ;
 }
 
+.image {
+  align: center;
+}
+
 .heading {
   font-size: 30px;
   text-color: #d79;
