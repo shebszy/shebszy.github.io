@@ -9,12 +9,13 @@ body {
   background-color: #edc8b8 ;
   text-align: right;
   text-color: #fff7f3 ;
+  padding: 0px 30px;
+  height: 44px;
 }
 
 .image {
   align: center;
-  width: ;
-  height: 800px;
+  height: 500px;
 }
 
 .buttons {
@@ -33,4 +34,11 @@ body {
 .buttons:hover {
   background-color: #f1dbd1;
   border: 2px solid #edc8b8;
+}
+
+.footer {
+  background-color: #edc8b8;
+  oadding: 10px;
+  text-size: auto;
+  height: 22px;
 }
