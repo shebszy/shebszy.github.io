@@ -14,13 +14,14 @@ body {
 .image {
   align: center;
   width: ;
-  height: ;
+  height: 800px;
 }
 
 .buttons {
   display: inline-block;
+  margin: auto;
+  width: auto;
   text-align: center;
-  width: 250px;
   font-size: 30px;
   background: #edc8b8;
   border: 2px solid #edc8b8;
