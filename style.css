@@ -28,6 +28,9 @@ body {
   border-radius: 3px;
 }
 
+.buttons:link, buttons:visited {
+  text-decoration: none;
+  
 .buttons:hover {
   background-color: #f1dbd1;
   border: 2px solid #edc8b8;
