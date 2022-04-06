@@ -9,8 +9,8 @@ body {
   background-color: #edc8b8 ;
   text-align: right;
   text-color: #fff7f3 ;
-  padding: 10px 30px;
-  height: 44px;
+  text-size: 20px;
+  padding: 14px 30px;
 }
 
 .image {
@@ -47,7 +47,6 @@ body {
 
 .footer {
   background-color: #edc8b8;
-  padding: 10px 40px;
-  text-size: auto;
-  height: 22px;
+  padding: 6px 40px;
+  text-size: 18px;
 }
