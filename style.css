@@ -28,12 +28,21 @@ body {
   border-radius: 3px;
 }
 
-.buttons:link, buttons:visited {
+.buttons:link {
   text-decoration: none;
+  text-color: #fff7f3;
+}
+
+.buttons:visited {
+  text-decoration: none;
+  text-color: #fff7f3;
+}
   
 .buttons:hover {
   background-color: #f1dbd1;
   border: 2px solid #edc8b8;
+  text-decoration: none;
+  text-color: #fff7f3;
 }
 
 .footer {
