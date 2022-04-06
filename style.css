@@ -5,7 +5,7 @@ body {
   margin: 0px;
 }
 
-topnav {
+.topnav {
   background-color: #edc8b8 ;
   text-align: right;
   text-color: #fff7f3 ;
@@ -18,7 +18,7 @@ a:link a:visited a:hover {
   text-color: #fff7f3;
 }
 
-image {
+.image {
   align: center;
   height: ;
 }
@@ -39,7 +39,7 @@ image {
   border: 2px solid #edc8b8;
 }
 
-footer {
+.footer {
   background-color: #edc8b8;
   padding: 6px 40px;
   margin-top: 10px;
