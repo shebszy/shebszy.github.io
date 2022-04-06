@@ -20,8 +20,7 @@ body {
 .buttons {
   display: inline-block;
   margin: auto;
-  width: auto;
-  min-width: 250px;
+  padding: 12px 28px;
   text-align: center;
   font-size: 30px;
   background: #edc8b8;
