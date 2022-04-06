@@ -5,7 +5,7 @@ body {
   margin: 0px;
 }
 
-.topnav {
+topnav {
   background-color: #edc8b8 ;
   text-align: right;
   text-color: #fff7f3 ;
@@ -13,7 +13,12 @@ body {
   padding: 14px 30px;
 }
 
-.image {
+a:link a:visited a:hover {
+  text-decoration: none;
+  text-color: #fff7f3;
+}
+
+image {
   align: center;
   height: ;
 }
@@ -29,30 +34,14 @@ body {
   margin: 40px 25px 80px 25px;
 }
 
-a:link {
-  text-decoration: none;
-  text-color: #fff7f3;
-}
-
-a:visited {
-  text-decoration: none;
-  text-color: #fff7f3;
-}
-  
 .buttons:hover {
   background-color: #f1dbd1;
   border: 2px solid #edc8b8;
-  text-decoration: none;
-  text-color: #fff7f3;
 }
 
-.footer {
+footer {
   background-color: #edc8b8;
   padding: 6px 40px;
+  margin-top: 10px;
   text-size: 18px;
-}
-
-p {
-  padding: 0px;
-  margin: 0px;
 }
