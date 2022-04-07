@@ -1,5 +1,6 @@
 body {
   background-color: #f0dcd3;
+  text-color: #fff7f3;
   font-family: 'Averia Sans Libre';
   padding: 0px;
   margin: 0px;
@@ -7,15 +8,17 @@ body {
 
 .topnav {
   background-color: #edc8b8 ;
-  text-align: right;
-  text-color: #fff7f3 ;
-  text-size: 20px;
   padding: 14px 30px;
+}
+
+.navtext {
+  text-align: right;
+  text-color: #fff7f3;
+  text-size: 20px;
 }
 
 a:link a:visited a:hover {
   text-decoration: none;
-  text-color: #fff7f3;
 }
 
 .image {
@@ -32,6 +35,7 @@ a:link a:visited a:hover {
   border: 2px solid #edc8b8;
   border-radius: 3px;
   margin: 40px 25px 80px 25px;
+  box-shadow:-10px 10px;
 }
 
 .buttons:hover {
@@ -43,5 +47,10 @@ a:link a:visited a:hover {
   background-color: #edc8b8;
   padding: 6px 35px;
   margin-top: 4px;
+}
+
+.footertext {
   text-size: 18px;
+  text-align: left;
+  text-color: #fff7f3;
 }
