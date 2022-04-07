@@ -23,7 +23,9 @@ a:link a:visited a:hover {
 
 .image {
   align: center;
-  height: 300px;
+  object-fit: cover;
+  width: auto;
+  max-height: 300px;
 }
 
 .buttons {
