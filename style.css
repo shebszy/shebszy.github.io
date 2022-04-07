@@ -50,13 +50,10 @@ img {
   border: 2px solid #edc8b8;
 }
 
-.footer {
+footer {
   background-color: #edc8b8;
   padding: 6px 35px;
   margin-top: 4px;
-}
-
-.footertext {
   text-size: 18px;
   text-align: left;
   text-color: #fff7f3;
