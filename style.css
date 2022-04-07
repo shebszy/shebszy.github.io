@@ -9,12 +9,14 @@ body {
 .topnav {
   background-color: #edc8b8 ;
   padding: 14px 30px;
+  text-decoration: none;
 }
 
 .navtext {
   text-align: right;
   text-color: #fff7f3;
   text-size: 20px;
+  text-decoration: none;
 }
 
 a:link a:visited a:hover {
@@ -38,6 +40,7 @@ img {
   height: 40px;
   text-align: center;
   font-size: 30px;
+  text-decoration: none;
   background: #edc8b8;
   border: 2px solid #edc8b8;
   border-radius: 3px;
@@ -54,7 +57,7 @@ footer {
   background-color: #edc8b8;
   padding: -10px 35px;
   margin-top: 4px;
-  text-size: 18px;
-  text-align: left;
   text-color: #fff7f3;
+  text-size: 16px;
+  text-align: left;
 }
