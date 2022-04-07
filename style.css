@@ -25,7 +25,7 @@ a:link a:visited a:hover {
   align: center;
   object-fit: cover;
   width: auto;
-  max-height: 300px;
+  max-height: 250px;
 }
 
 .buttons {
