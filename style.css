@@ -42,7 +42,7 @@ img {
   border: 2px solid #edc8b8;
   border-radius: 3px;
   margin: 40px 25px 80px 25px;
-  box-shadow:-10px 10px;
+  box-shadow:-10px 10px #fff7f3;
 }
 
 .buttons:hover {
