@@ -21,7 +21,7 @@ a:link a:visited a:hover {
   text-decoration: none;
 }
 
-.image {
+.image .img {
   align: center;
   object-fit: cover;
   width: auto;
