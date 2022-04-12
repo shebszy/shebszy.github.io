@@ -12,6 +12,7 @@ body {
   background-color: #edc8b8 ;
   padding: 14px 30px;
   text-decoration: none;
+  width: 100%;
 }
 
 .navtext {
@@ -30,7 +31,7 @@ ul {
   text-size: 20px;
 }
 
-ul:a {
+ul a {
   text-decoration: none;
 }
 
@@ -70,12 +71,13 @@ button:hover {
   border: 2px solid #edc8b8;
 }
 
-button:a {
+button a {
   text-decoration: none;
 }
 
 footer {
   background-color: #edc8b8;
+  width: 100%;
   padding: 2px 35px;
   margin-top: 4px;
   text-color: #fff7f3;
