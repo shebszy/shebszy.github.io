@@ -4,6 +4,8 @@ body {
   font-family: 'Averia Sans Libre';
   padding: 0px;
   margin: 0px;
+  height: 100%;
+  overflow: hidden;
 }
 
 .topnav {
@@ -31,6 +33,7 @@ img {
   object-fit: contain;
   width: 100%;
   max-height: 250px;
+  margin-top: 50px;
 }
 
 .buttons {
