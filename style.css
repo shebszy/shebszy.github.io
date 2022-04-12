@@ -40,7 +40,7 @@ img {
   align: center;
 }
 
-.buttons {
+.button {
   display: inline-block;
   padding: 12px 28px;
   width: 150px;
@@ -53,6 +53,7 @@ img {
   border-radius: 3px;
   margin: 40px 25px 80px 25px;
   box-shadow:-10px 10px #fff7f3;
+  align: center;
 }
 
 .buttons:hover {
