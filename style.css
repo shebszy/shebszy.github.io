@@ -21,6 +21,15 @@ body {
   text-decoration: none;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-color: #fff7f3;
+  text-size: 20px;
+  text-decoration: none;
+}
+
 a:link a:visited a:hover {
   text-decoration: none;
 }
