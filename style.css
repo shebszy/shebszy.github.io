@@ -13,9 +13,11 @@ body {
   padding: 14px 30px;
   text-decoration: none;
   width: 100%;
+  height: 30px;
 }
 
 .navtext {
+  object-fit: contain;
   text-align: right;
   text-size: 0px;
   list-style-type: none;
