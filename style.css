@@ -36,6 +36,10 @@ img {
   margin-top: 50px;
 }
 
+.center {
+  align: center;
+}
+
 .buttons {
   display: inline-block;
   padding: 12px 28px;
