@@ -17,18 +17,20 @@ body {
 
 .navtext {
   text-align: right;
-  text-color: #fff7f3;
-  text-size: 20px;
-  text-decoration: none;
+  text-size: 0px;
+  list-style-type: none;
+  margin: 0px;
+  padding: 5px 10px 5px 0px;
+  display: block;
+  overflow: hidden;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: block;
-  text-color: #fff7f3;
+.navtext li {
+  background-color: #fff7f3;
+  text-color: #edc8b8;
   text-size: 20px;
+  text-decoration: none;
+  padding: 1px 2px;
 }
 
 ul a {
