@@ -16,6 +16,7 @@ body {
   height: 35px;
   overflow: hidden;
   object-fit: contain;
+  display: block;
 }
 
 .navtext {
@@ -25,8 +26,6 @@ body {
   list-style-type: none;
   margin: 0px;
   padding: 5px 10px 5px 0px;
-  display: block;
-  overflow: hidden;
 }
 
 .navtext li {
